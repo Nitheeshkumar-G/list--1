@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>List Example</title>
+    
 </head>
 <body>
     <h4 style="text-align: center;" >Create the list as shown in a below image.</h4>
